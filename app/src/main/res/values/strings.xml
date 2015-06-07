@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Udacity Nanodegree 0</string>
+
+    <string name="home_title">My Nanodegree Apps</string>
+    <string name="app_spotify">Spotify Streamer</string>
+    <string name="app_scores">Scores App</string>
+    <string name="app_library">Library App</string>
+    <string name="app_build_it_bigger">Build it bigger</string>
+    <string name="app_bacon_reader">Bacon Reader</string>
+    <string name="app_mine">Capstone: my own app</string>
+</resources>
